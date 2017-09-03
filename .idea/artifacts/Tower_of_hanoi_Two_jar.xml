@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tower_of_hanoi_Two:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tower_of_hanoi_Two_jar</output-path>
+    <root id="archive" name="Tower_of_hanoi_Two.jar">
+      <element id="module-output" name="Tower_of_hanoi_Two" />
+    </root>
+  </artifact>
+</component>
